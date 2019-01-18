@@ -13,7 +13,7 @@ namespace C0732052
             int sum = 0;
             for (int i = 1008; i > 117; i -= 81)
                 sum += i;
-            Console.WriteLine("The sum of the the Nummber is :" + sum);
+            Console.WriteLine("The sum of the the Nummmber is :" + sum);
             Console.ReadLine();
         }
     }
